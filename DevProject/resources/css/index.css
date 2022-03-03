@@ -1,0 +1,21 @@
+.banner {
+    background-color: blue;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#chicagoim {
+    height: 200px;
+    width: 200px;
+}
+
+#chicago {
+    color: blue;
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
