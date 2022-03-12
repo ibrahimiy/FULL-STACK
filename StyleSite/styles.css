@@ -1,0 +1,118 @@
+h1 {
+    margin-left: 10%;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    margin-left: 10px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+}
+
+#honeheading {
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+#htwoheading {
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#paragraph {
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.colors, .fonts, .txtstyles {
+    border: 0.2ch solid rgb(143, 143, 138);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+
+.fontnamecatone p {
+    display: inline-block;
+    width: 400px;
+    text-decoration: underline;
+    font-size: large;
+    margin-left: 10px;
+}
+
+.fontnamecttwo p {
+    display: inline-block;
+    width: 400px;
+    text-decoration: underline;
+    font-size: large;
+    margin-left: 10px;
+}
+
+.poppins {
+    margin-left: 10px;;
+}
+
+
+.normal p {
+    display: inline-block;
+    width: 400px;
+}
+
+.bold p {
+    display: inline-block;
+    width: 400px;
+    font-weight: bold;
+}
+
+.italic p {
+    display: inline-block;
+    width: 400px;
+    font-style: italic;
+}
+
+.srccode {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+}
+
+.nunito {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.colorline p {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+#beige {
+    display: inline-block;
+    background-color: #efd9ca;
+    text-align: center;
+    margin-left: 10px;
+    width: 300px;
+    height: 70px;
+    padding-top: 10px;
+}
+
+#blue {
+    background-color: #2d5dcc;
+    color: white;
+    margin-left: 10px;
+}
+
+#pink {
+    background-color: #d957d9;
+}
+
+#green {
+    background-color: #4fe0b0;
+}
